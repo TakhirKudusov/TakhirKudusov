@@ -1,7 +1,57 @@
-### Hi there 👋
-
+<div>
+    <h2>👋 &nbsp;Hey there! I'm Takhir, frontend developer.</h2>
+    <div id="header" >
+      <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="125"/>
+    </div>
+    <div>
+      <a href="https://t.me/takhir_kudusov">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      </a>
+      <a href="mailto:kudusov.takhir@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+    </div>
+    <hr />
+    <div >
+        <h3 >🛠 Tech Stack</h3>
+        <div>
+            <img alt="Web Storm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.93044251.727981946.1670334223-1053654431.1661517510&_gl=1*m7hxy6*_ga*MTA1MzY1NDQzMS4xNjYxNTE3NTEw*_ga_9J976DJZ68*MTY3MDMzNDIyMy4xMi4xLjE2NzAzMzQyNjguMTUuMC4w" width="30px" style="margin-right:10px;" />
+            <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="styled-components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Sass" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" style="margin-right:10px;" />               
+            <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right:10px;" />
+        </div>
+    </div>
+    <hr />
+</div>
+<h3 >⚙️ My stats</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=TakhirKudusov&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=TakhirKudusov&show_icons=true&theme=cobalt"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TakhirKudusov&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TakhirKudusov&layout=compact&theme=cobalt"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
