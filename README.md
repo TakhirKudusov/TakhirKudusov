@@ -4,7 +4,7 @@
       <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="125"/>
     </div>
     <div>
-      <a target="_blank" href="https://t.me/takhir_kudusov">
+      <a href="https://t.me/takhir_kudusov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
       <a href="mailto:kudusov.takhir@gmail.com">
