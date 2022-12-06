@@ -15,19 +15,19 @@
     <div >
         <h3 >🛠 Tech Stack</h3>
         <div>
-            <img alt="Web Storm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.93044251.727981946.1670334223-1053654431.1661517510&_gl=1*m7hxy6*_ga*MTA1MzY1NDQzMS4xNjYxNTE3NTEw*_ga_9J976DJZ68*MTY3MDMzNDIyMy4xMi4xLjE2NzAzMzQyNjguMTUuMC4w" width="40px" style="padding-right:10px;" />
-            <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="styled-components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="Sass" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="40px" style="padding-right:10px;" />            
-            <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" style="padding-right:10px;" />               
-            <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="padding-right:10px;" />
-            <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" style="padding-right:10px;" />            
-            <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40px" style="padding-right:10px;" />            
-            <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="padding-right:10px;" />
+            <img alt="Web Storm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.93044251.727981946.1670334223-1053654431.1661517510&_gl=1*m7hxy6*_ga*MTA1MzY1NDQzMS4xNjYxNTE3NTEw*_ga_9J976DJZ68*MTY3MDMzNDIyMy4xMi4xLjE2NzAzMzQyNjguMTUuMC4w" width="30px" style="margin-right:10px;" />
+            <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="styled-components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Sass" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" style="margin-right:10px;" />               
+            <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="margin-right:10px;" />
+            <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px" style="margin-right:10px;" />            
+            <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right:10px;" />
         </div>
     </div>
     <hr />
