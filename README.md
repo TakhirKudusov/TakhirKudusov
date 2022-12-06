@@ -1,7 +1,7 @@
 <div>
     <h1>👋 &nbsp;Hey there! I'm Takhir, frontend developer.</h1>
     <div id="header" >
-      <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="125"/>
+      <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="150"/>
     </div>
     <div>
       <a href="https://t.me/takhir_kudusov">
