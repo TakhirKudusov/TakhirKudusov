@@ -1,5 +1,5 @@
 <div>
-    <h2>👋 &nbsp;Hey there! I'm Takhir, frontend developer.</h2>
+    <h1>👋 &nbsp;Hey there! I'm Takhir, frontend developer.</h1>
     <div id="header" >
       <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="125"/>
     </div>
@@ -13,7 +13,7 @@
     </div>
     <hr />
     <div >
-        <h3 >🛠 Tech Stack</h3>
+        <h2 >🛠 Tech Stack</h2>
         <div>
             <img alt="Web Storm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.93044251.727981946.1670334223-1053654431.1661517510&_gl=1*m7hxy6*_ga*MTA1MzY1NDQzMS4xNjYxNTE3NTEw*_ga_9J976DJZ68*MTY3MDMzNDIyMy4xMi4xLjE2NzAzMzQyNjguMTUuMC4w" width="30px" style="margin-right:10px;" />
             <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" style="margin-right:10px;" />
@@ -32,7 +32,7 @@
     </div>
     <hr />
 </div>
-<h3 >⚙️ My stats</h3>
+<h2>⚙️ My stats</h2>
 <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=TakhirKudusov&show_icons=true&theme=tokyonight"
