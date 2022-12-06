@@ -1,3 +1,8 @@
 ### Hi there 👋
 
-<img media="(prefers-color-scheme: light)" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-light-mode-only" width="30px" style="margin-right:10px;" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+</picture>
+</a>
