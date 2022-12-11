@@ -15,6 +15,11 @@
         </a>
     </div>
     <hr />
+        <div>
+        <h2>💡 About me</h2>
+        <p>I am a React-Next-Redux stack enthusiast. My professional path began with an interest in networking technology and a desire to do creative intellectual work. At the moment I have a year of commercial experience and during this time have managed to work on 3 projects.</p>
+    </div>
+    <hr />
     <div >
         <h2 >🛠 Tech Stack</h2>
         <div>
