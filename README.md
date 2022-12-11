@@ -10,7 +10,7 @@
       <a href="mailto:kudusov.takhir@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-                <a href="">
+                <a href="https://www.linkedin.com/in/takhir-kudusov-5a92bb242/">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
         </a>
     </div>
