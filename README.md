@@ -31,18 +31,9 @@ Professionally I like to work with Web3 and everything connected with cryptocurr
             <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" style="margin-right:10px;" /> 
-            <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35px" style="margin-right:10px;" />
-            <div style="min-width: 35px; max-width: 35px; height: 35px; margin-right:10px; background-color: white; border-radius: 100px;">
-                <img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="min-width: 37px; min-height: 37px; position: relative; bottom: 1px; right: 1px" />
-            </div>            
+            <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35px" style="margin-right:10px;" /> 
             <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35px" style="margin-right:10px;" />
-            <div style="min-width: 35px; max-width: 35px; height: 35px; margin-right:10px; background-color: white; border-radius: 100px; overflow: hidden">
-                <img alt="Socket IO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style="min-width: 37px; min-height: 37px; position: relative; bottom: 1px; right: 1px" />
-            </div>
-            <div style="border: 2px black solid; min-width: 35px; max-width: 35px; height: 35px; margin-right:10px; background-color: white; border-radius: 100px; overflow: hidden; display: flex; justify-content: center; align-items: center">
-                <img alt="Express JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="27px" height="27px" />
-            </div>
             <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="styled-components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="Sass" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="35px" style="margin-right:10px;" />
