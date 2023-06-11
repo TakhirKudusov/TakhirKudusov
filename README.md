@@ -1,8 +1,5 @@
 <div>
     <h1>👋 &nbsp;Hey there! I'm Takhir, fullstack MERN & Web3 developer.</h1>
-    <div id="header" >
-      <img alt="codding cat" src="https://tenor.com/ru/view/cat-computer-typing-fast-gif-5368357.gif" width="150"/>
-    </div>
     <div>
       <a href="https://t.me/takhir_kudusov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
