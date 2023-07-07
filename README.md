@@ -17,7 +17,7 @@
         <p>My professional path began with a university degree in Information Systems and Technology, as well as the development of web interfaces using HTML, CSS and TypeScript.<br>
 At the moment I write both frontend and backend for web applications using such libraries as React JS, styled-components, Redux, RTK Query, Socket IO, Next JS framework for frontend and Express JS framework for backend. I also use MongoDB as my application database.<br>
 Professionally I like to work with Web3 and everything connected with cryptocurrencies.
-<br>In the near future I plan to start studying technologies for building mobile cross-platform applications as well as to start writing articles on web programming.</p>
+</p>
     </div>
     <hr />
     <div >
