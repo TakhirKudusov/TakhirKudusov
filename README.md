@@ -1,5 +1,5 @@
 <div>
-    <h1>👋 &nbsp;Hey there! I'm Takhir, fullstack MERN & Web3 developer.</h1>
+    <h1>👋 &nbsp;Hey there! I'm Takhir, full stack JavaScript developer.</h1>
     <div>
       <a href="https://t.me/takhir_kudusov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -7,7 +7,7 @@
       <a href="mailto:kudusov.takhir@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-                <a href="https://www.linkedin.com/in/takhir-kudusov-5a92bb242/">
+                <a href="https://www.linkedin.com/in/TakhirKudusov/">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
         </a>
     </div>
@@ -32,9 +32,12 @@ Professionally I like to work with Web3 and everything connected with cryptocurr
             <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35px" style="margin-right:10px;" />
-            <img alt="styled-components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35px" style="margin-right:10px;" />
-            <img alt="Sass" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="35px" style="margin-right:10px;" />
+            <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35px" style="margin-right:10px;" />
+            <img alt="styled-components" src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="35px" style="margin-right:10px;" />
+            <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35px" style="margin-right:10px;" />
+            <img alt="WebPack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="35px" style="margin-right:10px;" />
             <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35px" style="margin-right:10px;" />
+            <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="35px" style="margin-right:10px;" />
             <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35px" style="margin-right:10px;" />            
             <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35px" style="margin-right:10px;" />            
             <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" style="margin-right:10px;" />
