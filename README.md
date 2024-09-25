@@ -1,15 +1,15 @@
 <div>
     <h1>👋 &nbsp;Hey there! I'm Takhir, full stack JavaScript developer.</h1>
     <div>
-      <a href="https://t.me/takhir_kudusov">
+<!--       <a href="https://t.me/takhir_kudusov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-      </a>
+      </a> -->
       <a href="mailto:kudusov.takhir@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-                <a href="https://www.linkedin.com/in/TakhirKudusov/">
+<!--                 <a href="https://www.linkedin.com/in/TakhirKudusov/">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-        </a>
+        </a> -->
     </div>
     <hr />
         <div>
